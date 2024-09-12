@@ -3,13 +3,13 @@ import { BsArrowLeftSquareFill } from 'react-icons/bs'
 import { BsArrowRightSquareFill } from 'react-icons/bs'
 const sliderData = [
     {
-        url: "https://images.unsplash.com/photo-1465145782865-09532f760e6b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGFrZSUyMGJsdXJ8ZW58MHx8MHx8fDA%3D"
+        url: "https://media.istockphoto.com/id/1491756541/photo/tropical-forest.webp?a=1&b=1&s=612x612&w=0&k=20&c=0vENGA83uu8VBHUKAPCfL3Oj7gEB5lBOQP3GPn7bImY="
     },
     {
-        url: "https://images.unsplash.com/photo-1518984720889-45999dcda13f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bGFrZSUyMGJsdXJ8ZW58MHx8MHx8fDA%3D"
+        url: "https://media.istockphoto.com/id/1884865414/photo/sunlight-reflected-on-water-surface.webp?a=1&b=1&s=612x612&w=0&k=20&c=Nr1Vg1GpWgPKKx_ifDVzILJDwnK1Sc2cBPFBcdoRuZk="
     },
     {
-        url: "https://images.unsplash.com/photo-1598062568618-29c189c7f303?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWVkYW58ZW58MHx8MHx8fDA%3D"
+        url: "https://media.istockphoto.com/id/1771970810/photo/lake-motosu-and-mt-fuji-sunrise-glow.webp?a=1&b=1&s=612x612&w=0&k=20&c=1wi7-Z-I6LME-9lVFPDEBtJu2fETZr2Y292b2NKuo4Q="
     },
 ];
 
